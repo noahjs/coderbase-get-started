@@ -4,9 +4,9 @@
 # I like ________________________________.
 # No need for periods, we'll add them :)
 
-I: 
-at:      
-I like: 
+I: innovate finnancial technology
+at: Yoyocard
+I like: coffee, code, architecture, scaling, security
 
 
 # Add your twitter handle to display your most 
@@ -16,4 +16,4 @@ I like:
 
 # YAML does not allow values to begin with an @ symbol, so use quotes:
 # Twitter: '@coderbaseio'
-Twitter: ''
+Twitter: '@noahjs'
